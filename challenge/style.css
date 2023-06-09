@@ -1,0 +1,25 @@
+#carDetails {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+#carDetails img {
+  width: 100%;
+}
+
+#carList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.carItem {
+  width: 30%;
+  margin: 15px;
+  text-align: center;
+}
+
+.carItem img {
+  width: 100%;
+}
