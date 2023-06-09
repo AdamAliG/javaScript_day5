@@ -2,6 +2,7 @@
   width: 50%;
   margin: auto;
   text-align: center;
+  
 }
 
 #carDetails img {
@@ -18,8 +19,21 @@
   width: 30%;
   margin: 15px;
   text-align: center;
+  border:2px solid darkblue;
 }
 
 .carItem img {
   width: 100%;
+}
+
+p{
+  font-weight: 300;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+  background-color: darkblue;
+  color:white;
+  padding:10px;
+  
 }
